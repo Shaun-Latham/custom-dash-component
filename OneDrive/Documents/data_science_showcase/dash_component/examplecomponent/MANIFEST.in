@@ -1,0 +1,11 @@
+include examplecomponent/examplecomponent.min.js
+include examplecomponent/examplecomponent.min.js.map
+include examplecomponent/async-*.js
+include examplecomponent/async-*.js.map
+include examplecomponent/*-shared.js
+include examplecomponent/*-shared.js.map
+include examplecomponent/metadata.json
+include examplecomponent/package-info.json
+include README.md
+include LICENSE
+include package.json
